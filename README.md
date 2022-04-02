@@ -52,10 +52,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 Honestly when going through the project I did not really encounter any challenges because of how the tutorial was formatted as it was extremely helpful in the creation of the project as it not only gave us the steps into how to create the project but also helped explain what each line of code did and how it operates. Along with mini-tabs that helped explain things such as pseudo classes and in addition to gifs that showed us, what the project should look like so far. But if I were to describe a challenge it would be how overwhelming it can be to get into a new language as my primary language that I’ve been learning the last few years have been C++ so Javascript was pretty new to me but I do see some similarities and how their foreloops work that I was able to read the lines of code and understand how it operates. Along with just simple google searching of specific stuff had helped me in overcoming that problem. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+
+Some questions that I have about web development would be some more specific functions that you would often see in a web page such as a drop down menu and things such as the ability to store passwords and log in into their database and how cloud works in keeping these websites on at all times. Along with how you would create a database that would operate as the backbone of the website and more of the specifics of how backend and front end interact with each other are some of the many questions that I have after completing my submission.
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+
+If I had a few more hours to work on this project, I would want to implement some of the optional features that were recommended to me in the pre-work website such as creating a randomized pattern instead of a set pattern that the game would follow using math.random. Something else that I would want to implement would be Timer because it’s a combination of both front and backend to create it so it’s a lot more tricky compared to the other optional features that were recommended to us. But something that I really wanted to mess with would be the option to reset and go back to the beginning of the game. This is because in our project, we only made it so it  would run until you either won or lost but there was never a way to restart other than just refreshing the project.
+
 
 
 
