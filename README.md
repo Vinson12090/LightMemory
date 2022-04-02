@@ -4,7 +4,7 @@
 
 Submitted by: **Vinson Lin**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
