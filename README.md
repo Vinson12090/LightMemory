@@ -41,6 +41,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 ![LightandMemory](https://user-images.githubusercontent.com/73362290/161363027-4c501b6f-de03-40bb-b398-3eb64fd7497d.gif)
+![L](https://user-images.githubusercontent.com/73362290/161365006-6dd61fd7-5a09-4b1a-b2d4-97c2e28451a2.gif)
 
 
 ## Reflection Questions
