@@ -6,7 +6,7 @@ Submitted by: **Vinson Lin**
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://light-sound-and-memory-game.glitch.me
 
 ## Required Functionality
 
